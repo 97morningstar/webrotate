@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/P1370310.jpg" />
+    <userInterface showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="true" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="#FFFFFF" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="#ffffff" toolbarPosition="0" customCursorClass="default_cursor" viewerHint="" />
+    <control dragSpeed="0.13" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" />
+    <rotation firstImage="0" rotate="false" rotatePeriod="7" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" />
+  </settings>
+  <hotspots />
+  <images rows="1" highresWidth="800" highresHeight="450">
+    <image src="images/P1370310.jpg">
+      <highres src="images/highres/P1370310.jpg" />
+    </image>
+    <image src="images/P1370311.jpg">
+      <highres src="images/highres/P1370311.jpg" />
+    </image>
+    <image src="images/P1370312.jpg">
+      <highres src="images/highres/P1370312.jpg" />
+    </image>
+    <image src="images/P1370313.jpg">
+      <highres src="images/highres/P1370313.jpg" />
+    </image>
+    <image src="images/P1370314.jpg">
+      <highres src="images/highres/P1370314.jpg" />
+    </image>
+    <image src="images/P1370315.jpg">
+      <highres src="images/highres/P1370315.jpg" />
+    </image>
+    <image src="images/P1370316.jpg">
+      <highres src="images/highres/P1370316.jpg" />
+    </image>
+    <image src="images/P1370317.jpg">
+      <highres src="images/highres/P1370317.jpg" />
+    </image>
+    <image src="images/P1370318.jpg">
+      <highres src="images/highres/P1370318.jpg" />
+    </image>
+    <image src="images/P1370319.jpg">
+      <highres src="images/highres/P1370319.jpg" />
+    </image>
+    <image src="images/P1370320.jpg">
+      <highres src="images/highres/P1370320.jpg" />
+    </image>
+    <image src="images/P1370321.jpg">
+      <highres src="images/highres/P1370321.jpg" />
+    </image>
+    <image src="images/P1370322.jpg">
+      <highres src="images/highres/P1370322.jpg" />
+    </image>
+    <image src="images/P1370323.jpg">
+      <highres src="images/highres/P1370323.jpg" />
+    </image>
+    <image src="images/P1370324.jpg">
+      <highres src="images/highres/P1370324.jpg" />
+    </image>
+    <image src="images/P1370325.jpg">
+      <highres src="images/highres/P1370325.jpg" />
+    </image>
+    <image src="images/P1370326.jpg">
+      <highres src="images/highres/P1370326.jpg" />
+    </image>
+    <image src="images/P1370327.jpg">
+      <highres src="images/highres/P1370327.jpg" />
+    </image>
+    <image src="images/P1370328.jpg">
+      <highres src="images/highres/P1370328.jpg" />
+    </image>
+    <image src="images/P1370329.jpg">
+      <highres src="images/highres/P1370329.jpg" />
+    </image>
+    <image src="images/P1370330.jpg">
+      <highres src="images/highres/P1370330.jpg" />
+    </image>
+    <image src="images/P1370331.jpg">
+      <highres src="images/highres/P1370331.jpg" />
+    </image>
+    <image src="images/P1370332.jpg">
+      <highres src="images/highres/P1370332.jpg" />
+    </image>
+    <image src="images/P1370333.jpg">
+      <highres src="images/highres/P1370333.jpg" />
+    </image>
+  </images>
+</config>
